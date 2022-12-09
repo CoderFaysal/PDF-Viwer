@@ -61,4 +61,4 @@ android.enableJetifier=true
 
 
 
-_@All Right Reserved by Innovative Programmer ❤️_
+_© All Right Reserved by Innovative Programmer ❤️_
